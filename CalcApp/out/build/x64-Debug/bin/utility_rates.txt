@@ -1,3 +1,0 @@
-Electricity 0.1
-Water 0.05
-Gas 0.03
